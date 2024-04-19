@@ -1,38 +1,30 @@
-
-.favourite-places-bg-container {
-  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
-  height: 100vh;
-  background-size: cover;
+.animecard{
+  background-image:url("https://i.pinimg.com/736x/2e/c3/1d/2ec31d205b1c06ea9ab17397f28566ca.jpg");
+  height:100vh;
+  background-size:cover;
 }
 
-.favourite-places-heading {
-  color: white;
-  font-family: "Roboto";
-  font-size: 28px;
-  font-weight: bold;
-  padding: 24px;
+.card{
+  text-align:center;
+  background-color: #e9caed;
+  padding:10px;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
 }
 
-.favourite-place-card-container {
-  background-color: white;
-  border-radius: 8px;
-  padding: 16px;
+.cardheading{
+  color:#6ab8e6;
+  font-size:60px;
+  font-family:"Roboto";
+  font-weight:bold;
 }
 
-.favourite-place-card-heading {
-  color: #0f0e46;
-  font-family: "Roboto";
-  font-size: 23px;
-  font-weight: bold;
-}
 
-.favourite-place-card-description {
-  color: #6c6b70;
-  font-family: "Roboto";
-  font-size: 13px;
-}
-
-.favourite-place-card-image {
-  width: 80px;
-  height: 100px;
+.button{
+  font-size:20px;
+  background-color:blue;
+  color:white;
+  height:40px;
+  width:200px;
+  border-radius: 20px;
 }
